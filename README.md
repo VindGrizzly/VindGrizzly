@@ -29,15 +29,8 @@ This profile is my space to share projects, experiments, and insights as I grow 
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=calm)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=calm)
-
----
-
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username/)  
-- 🌍 [Portfolio](https://your-website.com)  
+- 💼 [Linkedin](https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/vindgrizzly/) 
 
 ---
 
