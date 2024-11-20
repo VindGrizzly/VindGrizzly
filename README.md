@@ -30,7 +30,7 @@ This profile is my space to share projects, experiments, and insights as I grow 
 ---
 
 ## 🌐 Let's Connect!
-- 💼 [Linkedin](https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/vindgrizzly/) 
+- 💼 [Linkedin](https://www.linkedin.com/in/vindgrizzly/) 
 
 ---
 
