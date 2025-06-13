@@ -6,6 +6,15 @@ This profile is my space to share projects, experiments, and insights as I grow 
 
 ---
 
+## 📑 Table of Contents
+- [About Me](#-about-me)
+- [Skills and Tools](#️-skills-and-tools)
+    - [Programming Languages](#-programming-languages)
+    - [Technologies](#️-technologies)
+- [Let's Connect!](#-lets-connect)
+
+---
+
 ## 🔍 About Me
 - 🎓 **Profession**: Management Engineer with a strong interest in technology.  
 - 🌱 **Currently learning**: Advanced Python programming, ServiceNow System Administrator.  
