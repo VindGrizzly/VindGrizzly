@@ -1,46 +1,71 @@
 # 👋 Hi there! Welcome to my GitHub profile!
 
-I'm **Vincenzo**, a Management Engineer with a growing passion for IT, programming, and continuous learning. 🚀  
-While I don't consider myself a full-fledged developer yet, I'm deeply interested in coding and technology.
-This profile is my space to share projects, experiments, and insights as I grow in the field.
+I'm Vincenzo, a **Solutions Advisor** in the IT sector at **Engineering Group**, with a strong focus on **ServiceNow solutions** and a background in **Management / Industrial Engineering**.
+I work mainly on **technical development**, with exposure to functional consulting, aiming to deliver scalable, modular, and well-structured enterprise solutions.
+
+This GitHub profile is where I share projects, experiments, and learning notes as I continue to strengthen my technical expertise across the broader IT landscape. 🚀
 
 ---
 
 ## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Skills and Tools](#️-skills-and-tools)
-    - [Programming Languages](#-programming-languages)
-    - [Technologies](#️-technologies)
-- [Let's Connect!](#-lets-connect)
+
+* [About me](#-about-me)
+* [Skills and Tools](#️-skills-and-tools)
+* [Certifications](#-certifications)
+* [Education](#-education)
+* [Let's connect!](#-lets-connect)
 
 ---
 
-## 🔍 About Me
-- 🎓 **Profession**: Management Engineer with a strong interest in technology.  
-- 🌱 **Currently learning**: Advanced Python programming, ServiceNow System Administrator.  
-- 💼 **Technologies I’ve worked with**: Python, VBA, MATLAB, HTML & CSS, ServiceNow, and WordPress.  
-- 🎯 **Goals**: Improve my coding skills, become proficient with ServiceNow, explore automation solutions, and data analysis.    
-- ⚡ **Fun fact**: I enjoy connecting my technical skills to practical applications, especially in areas like personal finance and automation.
+## 🔍 About me
+
+* 💼 **Role**: Solutions Advisor @ Engineering Group
+* 🌱 **Current focus**: Design and development of enterprise-grade digital solutions, with a strong emphasis on backend logic, custom development, integrations, data modeling, and platform scalability.
+
+My work is primarily technical and hands-on, covering the full lifecycle of solution design and implementation in complex enterprise environments.
+
+For a complete overview of my professional background and experience, [let's connect](#-lets-connect)!
 
 ---
 
 ## 🛠️ Skills and Tools
-### 👨‍💻 Programming Languages
-- Python  
-- JavaScript (basic knowledge)  
-- VBA  
-- HTML & CSS  
-- MATLAB  
 
-### ⚙️ Technologies
-- **Platforms**: ServiceNow, WordPress  
-- **Tools**: Microsoft Excel (advanced VBA scripting), data visualization tools  
+| Area                         | Skills, tools & technologies                                                                                                                     |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Platforms                    | ServiceNow, WordPress                                                                                                                     |
+| Programming & Scripting      | JavaScript, Python, VBA, MATLAB, HTML, CSS                                                                                                |
+| Productivity & Collaboration | Microsoft Office (Excel, Word, PowerPoint, Access), Microsoft Teams, Asana, Trello, Google Workspace                                      |
 
 ---
 
-## 🌐 Let's Connect!
-- 💼 [Linkedin](https://www.linkedin.com/in/vindgrizzly/) 
+## 📜 Certifications
+
+### ServiceNow
+
+| Type                 | Certification                                    |
+| -------------------- | ------------------------------------------------ |
+| Mainline             | ServiceNow Certified System Administrator (CSA)  |
+| Mainline             | ServiceNow Certified Application Developer (CAD) |
+| Micro-Certifications | Welcome to ServiceNow                            |
+| Micro-Certifications | Introduction to App Engine Studio                |
+| Micro-Certifications | Flow Designer                                    |
+| Micro-Certifications | Virtual Agent                                    |
+| Micro-Certifications | Platform Analytics                               |
+
 
 ---
 
-⭐ **If you find my projects interesting, feel free to leave a star or reach out for collaboration!**
+## 🎓 Education
+
+* **Master of Engineering** – Industrial / Management Engineering
+* **Bachelor of Engineering** – Industrial / Management Engineering
+
+---
+
+## 🌐 Let's connect!
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/vindgrizzly/)
+
+---
+
+⭐ If you find my projects interesting, feel free to leave a star or reach out for collaboration!
