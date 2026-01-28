@@ -19,8 +19,8 @@ This GitHub profile is where I share projects, experiments, and learning notes a
 
 ## 🔍 About me
 
-* 💼 **Role**: Solutions Advisor @ Engineering Group
-* 🌱 **Current focus**: Design and development of enterprise-grade digital solutions, with a strong emphasis on backend logic, custom development, integrations, data modeling, and platform scalability.
+* **Role**: Solutions Advisor @ Engineering Group
+* **Current focus**: Design and development of enterprise-grade digital solutions, with a strong emphasis on backend logic, custom development, integrations, data modeling, and platform scalability.
 
 My work is primarily technical and hands-on, covering the full lifecycle of solution design and implementation in complex enterprise environments.
 
@@ -64,7 +64,7 @@ For a complete overview of my professional background and experience, [let's con
 
 ## 🌐 Let's connect!
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/vindgrizzly/)
+* [LinkedIn](https://www.linkedin.com/in/vindgrizzly/)
 
 ---
 
